@@ -6,5 +6,6 @@
 103823 Mariana Alexandra Franco Andrade - 18<br>
 97787 Vicente Manuel Andrade Barros - 18
 </h2>
-<h2>O projeto está numa organização github que pode ser acedida por este [link]<https://github.com/orgs/Roadrunner-TQS/repositories></h2>
+###
 
+O projeto está numa organização github que pode ser acedida por este [link](https://github.com/orgs/Roadrunner-TQS/repositories)
